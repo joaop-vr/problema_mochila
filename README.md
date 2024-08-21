@@ -33,7 +33,6 @@ Após a compilação, execute o programa com o comando:
 ```bash
 ./exec
 ```
-Siga as instruções exibidas para realizar as operações na Tabela Hash.
 
 ## Uso do Programa
 
